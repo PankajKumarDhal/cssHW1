@@ -1,0 +1,128 @@
+
+body {
+    margin: 0;
+
+}
+.img {
+  height: 170vh;
+  width: 170vw;
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  filter: brightness(40%);
+
+
+}
+
+
+
+#buttons{
+text-align: right;
+margin-right: 20px;
+display: inline;
+padding-bottom: 1rem;
+margin-bottom: 1rem;
+padding: 1rem;
+padding-right: 50px;
+}
+
+
+.main{
+  text-align: right;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  
+}
+#main>img{
+  opacity: 0.4;
+}
+#Signin{
+  background-color: red;
+  color: white;
+  border: 0px;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight:700;
+  width: 100px;
+  margin-right: 10px;
+}
+#Register{
+  background-color: red;
+  color: white;
+  border: 0px;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight:700;
+  width: 100px;
+  margin-right: -40px;
+}
+#image{
+    padding-left: 240px;
+    display: inline;
+}
+#contant{
+    color: white;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 120px;
+    
+    
+   
+}
+
+#h1 {
+  font-size: 55px;
+  margin-bottom: 6px;
+  
+}
+#p1 {
+    font-size: 30px;
+    margin: 0px;
+  }
+#p2 {
+    font-size: 23px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
